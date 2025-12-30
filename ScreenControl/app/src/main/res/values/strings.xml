@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">screenControl</string>
+
+    <!--  App - TODO  -->
+    <string name="screen_description">"Al utilizar esta aplicación, aceptas estos Términos de Servicio. Su propósito es ayudarte a gestionar tu tiempo frente a la pantalla de manera responsable.
+La aplicación puede recopilar estadísticas de uso anónimas para mejorar su funcionamiento. Esta recopilación es opcional y puede desactivarse en la configuración. Los datos se almacenan por un tiempo limitado y no contienen información personal identificable."</string>
+
+</resources>
