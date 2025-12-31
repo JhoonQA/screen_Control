@@ -39,12 +39,13 @@ ScreenControl ha sido diseñada bajo el principio de privacidad por diseño:
 ---
 
 ## Teléfono
-![sc_01](https://github.com/user-attachments/assets/be9fbd15-aad1-43b3-ba04-9b4623fbb923)
 
-![sc_02](https://github.com/user-attachments/assets/e8897329-0f93-4ccc-a0d5-446cf944ad7e)
+| | |
+|--|--|
+| ![sc_01](https://github.com/user-attachments/assets/be9fbd15-aad1-43b3-ba04-9b4623fbb923) | ![sc_02](https://github.com/user-attachments/assets/e8897329-0f93-4ccc-a0d5-446cf944ad7e) |
+| ![sc_03](https://github.com/user-attachments/assets/07b23eb5-9e90-4bb6-a1cf-b75e5cac1585) | ![sc_04](https://github.com/user-attachments/assets/b22fa54f-29d0-4af1-90e9-9f0d58547f8e) |
 
-![sc_03](https://github.com/user-attachments/assets/07b23eb5-9e90-4bb6-a1cf-b75e5cac1585)
 
-![sc_04](https://github.com/user-attachments/assets/b22fa54f-29d0-4af1-90e9-9f0d58547f8e)
+
 
 
